@@ -1,0 +1,10 @@
+===== LOG SUMMARY =====
+Total number of log lines:
+52
+
+Log level counts:
+     14 ERROR
+     24 INFO
+     14 WARN
+
+Top 3 most frequent IP addresses:
